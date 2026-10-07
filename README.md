@@ -1,5 +1,7 @@
 # Tadarab Jo | تدرب جو
 
+![Tadarab Jo Overview](assets/tadarab-jo-overview.png)
+
 ## Overview
 
 Tadarab Jo is an integrated platform designed to streamline university students' field-training and professional development journey.
