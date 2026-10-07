@@ -1,6 +1,6 @@
 # Tadarab Jo | تدرب جو
 
-![Tadarab Jo Overview](assets/tadarab-jo-overview.png)
+![Tadarab Jo Overview](tadarab-jo-overview.png)
 
 ## Overview
 
